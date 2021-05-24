@@ -32,7 +32,6 @@ export default function Header() {
                     src="https://supabase.io/new/images/logo-dark.png"
                     alt="supabase"
                   />
-                  
                 </div>
                 <div className="hidden sm:block sm:ml-6">
                   <div className="flex space-x-4">
